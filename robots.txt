@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://agratham.github.io/sitemap.html.gz
+Sitemap: https://agratham.github.io/app/sitemap.html.gz
+Sitemap: https://agratham.github.io/assets/sitemap.html.gz
+Sitemap: https://agratham.github.io/css/sitemap.html.gz
+Sitemap: https://agratham.github.io/includes/sitemap.html.gz
+Sitemap: https://agratham.github.io/item/sitemap.html.gz
+Sitemap: https://agratham.github.io/src/sitemap.html.gz
